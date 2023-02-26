@@ -1,0 +1,15 @@
+C:\Git\UnitTest\unit-test\bin\Debug\net6.0\unit-test.exe
+C:\Git\UnitTest\unit-test\bin\Debug\net6.0\unit-test.deps.json
+C:\Git\UnitTest\unit-test\bin\Debug\net6.0\unit-test.runtimeconfig.json
+C:\Git\UnitTest\unit-test\bin\Debug\net6.0\unit-test.dll
+C:\Git\UnitTest\unit-test\bin\Debug\net6.0\unit-test.pdb
+C:\Git\UnitTest\unit-test\obj\Debug\net6.0\unit-test.csproj.AssemblyReference.cache
+C:\Git\UnitTest\unit-test\obj\Debug\net6.0\unit-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\UnitTest\unit-test\obj\Debug\net6.0\unit-test.AssemblyInfoInputs.cache
+C:\Git\UnitTest\unit-test\obj\Debug\net6.0\unit-test.AssemblyInfo.cs
+C:\Git\UnitTest\unit-test\obj\Debug\net6.0\unit-test.csproj.CoreCompileInputs.cache
+C:\Git\UnitTest\unit-test\obj\Debug\net6.0\unit-test.dll
+C:\Git\UnitTest\unit-test\obj\Debug\net6.0\refint\unit-test.dll
+C:\Git\UnitTest\unit-test\obj\Debug\net6.0\unit-test.pdb
+C:\Git\UnitTest\unit-test\obj\Debug\net6.0\unit-test.genruntimeconfig.cache
+C:\Git\UnitTest\unit-test\obj\Debug\net6.0\ref\unit-test.dll

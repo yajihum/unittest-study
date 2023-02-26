@@ -1,0 +1,15 @@
+C:\Git\UnitTest\unit-test\bin\Debug\net6.0\Bank.exe
+C:\Git\UnitTest\unit-test\bin\Debug\net6.0\Bank.deps.json
+C:\Git\UnitTest\unit-test\bin\Debug\net6.0\Bank.runtimeconfig.json
+C:\Git\UnitTest\unit-test\bin\Debug\net6.0\Bank.dll
+C:\Git\UnitTest\unit-test\bin\Debug\net6.0\Bank.pdb
+C:\Git\UnitTest\unit-test\obj\Debug\net6.0\Bank.csproj.AssemblyReference.cache
+C:\Git\UnitTest\unit-test\obj\Debug\net6.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\UnitTest\unit-test\obj\Debug\net6.0\Bank.AssemblyInfoInputs.cache
+C:\Git\UnitTest\unit-test\obj\Debug\net6.0\Bank.AssemblyInfo.cs
+C:\Git\UnitTest\unit-test\obj\Debug\net6.0\Bank.csproj.CoreCompileInputs.cache
+C:\Git\UnitTest\unit-test\obj\Debug\net6.0\Bank.dll
+C:\Git\UnitTest\unit-test\obj\Debug\net6.0\refint\Bank.dll
+C:\Git\UnitTest\unit-test\obj\Debug\net6.0\Bank.pdb
+C:\Git\UnitTest\unit-test\obj\Debug\net6.0\Bank.genruntimeconfig.cache
+C:\Git\UnitTest\unit-test\obj\Debug\net6.0\ref\Bank.dll
