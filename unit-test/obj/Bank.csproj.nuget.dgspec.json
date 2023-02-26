@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\UnitTest\\unit-test\\Bank.csproj": {}
+    "C:\\Git\\unittest-study\\unit-test\\Bank.csproj": {}
   },
   "projects": {
-    "C:\\Git\\UnitTest\\unit-test\\Bank.csproj": {
+    "C:\\Git\\unittest-study\\unit-test\\Bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\UnitTest\\unit-test\\Bank.csproj",
+        "projectUniqueName": "C:\\Git\\unittest-study\\unit-test\\Bank.csproj",
         "projectName": "Bank",
-        "projectPath": "C:\\Git\\UnitTest\\unit-test\\Bank.csproj",
+        "projectPath": "C:\\Git\\unittest-study\\unit-test\\Bank.csproj",
         "packagesPath": "C:\\Users\\yajiu\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\UnitTest\\unit-test\\obj\\",
+        "outputPath": "C:\\Git\\unittest-study\\unit-test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yajiu\\AppData\\Roaming\\NuGet\\NuGet.Config",

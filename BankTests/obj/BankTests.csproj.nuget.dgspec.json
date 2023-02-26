@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\UnitTest\\BankTests\\BankTests.csproj": {}
+    "C:\\Git\\unittest-study\\BankTests\\BankTests.csproj": {}
   },
   "projects": {
-    "C:\\Git\\UnitTest\\BankTests\\BankTests.csproj": {
+    "C:\\Git\\unittest-study\\BankTests\\BankTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\UnitTest\\BankTests\\BankTests.csproj",
+        "projectUniqueName": "C:\\Git\\unittest-study\\BankTests\\BankTests.csproj",
         "projectName": "BankTests",
-        "projectPath": "C:\\Git\\UnitTest\\BankTests\\BankTests.csproj",
+        "projectPath": "C:\\Git\\unittest-study\\BankTests\\BankTests.csproj",
         "packagesPath": "C:\\Users\\yajiu\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\UnitTest\\BankTests\\obj\\",
+        "outputPath": "C:\\Git\\unittest-study\\BankTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yajiu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Git\\UnitTest\\unit-test\\Bank.csproj": {
-                "projectPath": "C:\\Git\\UnitTest\\unit-test\\Bank.csproj"
+              "C:\\Git\\unittest-study\\unit-test\\Bank.csproj": {
+                "projectPath": "C:\\Git\\unittest-study\\unit-test\\Bank.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Git\\UnitTest\\unit-test\\Bank.csproj": {
+    "C:\\Git\\unittest-study\\unit-test\\Bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\UnitTest\\unit-test\\Bank.csproj",
+        "projectUniqueName": "C:\\Git\\unittest-study\\unit-test\\Bank.csproj",
         "projectName": "Bank",
-        "projectPath": "C:\\Git\\UnitTest\\unit-test\\Bank.csproj",
+        "projectPath": "C:\\Git\\unittest-study\\unit-test\\Bank.csproj",
         "packagesPath": "C:\\Users\\yajiu\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\UnitTest\\unit-test\\obj\\",
+        "outputPath": "C:\\Git\\unittest-study\\unit-test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yajiu\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K9o5E7zeqq6nhh/GlHEQEgTfc7DY8OYwIFpxps4J2T0aYuAV2vQAuu3zKA41Al38W9nx2WKWx+Wwg/FbAkAwTw==",
+  "dgSpecHash": "LxJK4/CMx7SBQ99L+3+3fYcstJmHW1Wy4qIISzSV3FWtSowmSwuSA/flo6QX/tmrYAaMtQlHsCXgr1+8LYqjQw==",
   "success": true,
-  "projectFilePath": "C:\\Git\\UnitTest\\unit-test\\Bank.csproj",
+  "projectFilePath": "C:\\Git\\unittest-study\\unit-test\\Bank.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
